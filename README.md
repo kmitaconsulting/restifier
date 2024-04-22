@@ -1,5 +1,7 @@
 # RESTifier
 
+# RESTifier is incomplete and currently WIP
+
 RESTifier is an example implementation of a Synchronous to Asynchronous communication bridge. Such a bridge should be used when attempting to expose an asynchronous request/response endpoint via a synchronous endpoint.
 
 ## Approach
